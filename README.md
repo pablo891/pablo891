@@ -1,5 +1,5 @@
 # Olá, eu sou o Pablo!
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu espaço 👋
 
 - 🔭 Atualmente estou cursando o Terceiro Ano do Ensino Médio, na Rede Sesi de Educação, e em paralelo, finalizando o curso técnico em Desenvolvimento de Sistemas, na instituição SENAI São Luís.
 - 🌱 Estou me especializando em Full Stack e Desenvolvimento Web.
