@@ -6,7 +6,10 @@
 - 😄 Estou em transição para me tornar um Dev Júnior.
 
 ## Ferramentas e Tecnologias que eu utilizo
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"  width="40" height="40"/>
           
 <!--
 **pablo891/pablo891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
