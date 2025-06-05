@@ -1,7 +1,7 @@
 # Olá, eu sou o Pablo!
 ## Bem vindo ao meu espaço 👋
 
-- 🔭 Atualmente estou cursando o Terceiro Ano do Ensino Médio, na Rede Sesi de Educação, e em paralelo, finalizando o curso técnico em Desenvolvimento de Sistemas, na instituição SENAI São Luís.
+- 🔭 Graduando em Sistemas de Informação, na Instituição Federal do Maranhão (IFMA).
 - 🌱 Estou me especializando em Full Stack e Desenvolvimento Web.
 - 😄 Estou em transição para me tornar um Dev Júnior.
 
