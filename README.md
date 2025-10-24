@@ -7,7 +7,7 @@
 
 ## Ferramentas e Tecnologias que eu utilizo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height= "16" width= "16" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height= "36" width= "36" />
                     
           
 
