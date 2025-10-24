@@ -2,8 +2,8 @@
 ## Bem vindo ao meu espaço 👋
 
 - 🔭 Graduando em Sistemas de Informação, na Instituição Federal do Maranhão (IFMA).
-- 🌱 Estou me especializando em Full Stack e Desenvolvimento Web.
-- 😄 Estou em transição para me tornar um Dev Júnior.
+- 🌱 Estou me especializando em desenvolvimento Back-End e Cloud Computing AWS e Azure.
+- 😄 Estou em transição para me tornar um Software Engineer Junior.
 
 ## Ferramentas e Tecnologias que eu utilizo
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
