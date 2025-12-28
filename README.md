@@ -15,7 +15,8 @@
 <div>
 <a href="https://github.com/pablo891">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo891&layout=donut)](https://github.com/pablo891/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissakick&show_icons=true)
+
 
 </div>
 
