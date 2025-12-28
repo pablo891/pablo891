@@ -12,14 +12,17 @@
           
 ## Estatísticas
 
-<div>
-<a href="https://github.com/pablo891">
+<p>
+<img
+  align="left"
+  alt="Github Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo891&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissakick&show_icons=true)
+</p>
 
-
-</div>
-
+<br/>
 ## Meus contatos
 <div>
   <a href="linkedin.com/in/pablo-nascimento055" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
