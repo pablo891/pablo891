@@ -8,6 +8,7 @@ Busco oportunidade como **Software Engineer Junior** para atuar em projetos reai
 
 ## Resumo rapido
 - Graduando em Sistemas de Informacao (IFMA)
+- Atualmente atuo como Estagiario de Tecnologia na Softcom Tecnologia
 - Foco atual: Back-End, APIs REST, arquitetura e deploy em nuvem
 - Perfil: colaborativo, orientado a entrega e aprendizado continuo
 
