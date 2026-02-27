@@ -40,9 +40,14 @@ Busco oportunidade como **Software Engineer Junior** para atuar em projetos reai
 ## GitHub Stats
 <p>
   <img
+    alt="GitHub Stats"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=pablo891&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+  />
+  <img
     alt="Top Langs"
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo891&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias%20mais%20usadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo891&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias%20mais%20usadas&cache_seconds=1800"
   />
 </p>
 
