@@ -27,7 +27,7 @@ Busco oportunidade como **Software Engineer Junior** para atuar em projetos reai
   Pagina orientada a conversao para negocio local com CTA e estrutura semantica.  
   Link: `https://github.com/pablo891`
 
-## Stack
+## Stacks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="64" width="64" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="64" width="64" alt="Python" />
